@@ -1,0 +1,11 @@
+digraph {
+	H [label="Hue
+(0-360 degrees)"]
+	S [label="Saturation
+(0-100%)"]
+	V [label="Value
+(0-100%)"]
+	H -> S [label="Select a hue"]
+	S -> V [label="Adjust saturation"]
+	V -> H [label="Adjust value"]
+}

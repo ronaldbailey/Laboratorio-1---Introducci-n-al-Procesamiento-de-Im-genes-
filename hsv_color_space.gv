@@ -1,0 +1,10 @@
+// HSV Color Space
+digraph {
+	A [label="HSV Color Space"]
+	B [label=Hue]
+	C [label=Saturation]
+	D [label=Value]
+	A -> B
+	A -> C
+	A -> D
+}

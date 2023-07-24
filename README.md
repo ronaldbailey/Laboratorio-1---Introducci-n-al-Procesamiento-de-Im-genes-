@@ -32,7 +32,7 @@ En el .zip del laboratorio se le compartió un conjunto de imágenes en escala d
 
 Cree una función que, dada una imagen, cree una escala de grises en tres dimensiones. Tome en cuenta que su función debe crear 3 imágenes como salida. Para entregar este ejercicio, debe incluir una de las imágenes que haya utilizado como prueba y el resultado de las mismas. No puede utilizar la imagen del Problema #2.
 
-
+#### Solucion3: https://github.com/ronaldbailey/Laboratorio-1---Introducci-n-al-Procesamiento-de-Im-genes-/blob/main/Prolbema3.ipynb
 
 **Problema 4:**
 

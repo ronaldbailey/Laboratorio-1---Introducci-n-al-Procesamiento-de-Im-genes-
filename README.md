@@ -38,11 +38,13 @@ Cree una función que, dada una imagen, cree una escala de grises en tres dimens
 
 Cree una función que, dada una imagen, muestre el histograma de cada canal de color y el de escala de grises (utilice un promedio aritmético para su escala de grises, no puede usar funciones de OpenCV). Sus histogramas deben incluir una línea vertical que muestre el valor de la media de la distribución.
 
-#### Solucion3: https://github.com/ronaldbailey/Laboratorio-1---Introducci-n-al-Procesamiento-de-Im-genes-/blob/main/Problema4.ipynb
+#### Solucion4: https://github.com/ronaldbailey/Laboratorio-1---Introducci-n-al-Procesamiento-de-Im-genes-/blob/main/Problema4.ipynb
 
 **Problema 5:**
 
 Investigue brevemente en qué consiste el espacio de color HSV y cómo se mapean colores a dicho espacio. Para entregar este ejercicio, puede hacerlo con un archivo PDF.
+
+#### Solucion5: https://github.com/ronaldbailey/Laboratorio-1---Introducci-n-al-Procesamiento-de-Im-genes-/blob/main/Problema5.ipynb
 
 ---
 **Nota:** Recuerde que este es solo el enunciado del laboratorio. Debe completar cada ejercicio y presentar los resultados en un Notebook y un repositorio de GitHub.

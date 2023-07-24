@@ -21,7 +21,7 @@ Desarrolle una función que reciba dos parámetros, una imagen y un entero llama
 - Si el parámetro color vale 30, la imagen debe mostrar activos únicamente los colores azul y rojo.
 
 
-#### Solucion: https://github.com/ronaldbailey/Laboratorio-1---Introducci-n-al-Procesamiento-de-Im-genes-/blob/main/Problema1.ipynb
+#### Solucion 1: https://github.com/ronaldbailey/Laboratorio-1---Introducci-n-al-Procesamiento-de-Im-genes-/blob/main/Problema1.ipynb
 **Problema 2:**
 
 En el .zip del laboratorio se le compartió un conjunto de imágenes en escala de grises. Estas imágenes fueron creadas utilizando una escala de grises en 3D. Cree una función que, dadas las 3 imágenes, construya la imagen original a color.
@@ -29,6 +29,8 @@ En el .zip del laboratorio se le compartió un conjunto de imágenes en escala d
 **Problema 3:**
 
 Cree una función que, dada una imagen, cree una escala de grises en tres dimensiones. Tome en cuenta que su función debe crear 3 imágenes como salida. Para entregar este ejercicio, debe incluir una de las imágenes que haya utilizado como prueba y el resultado de las mismas. No puede utilizar la imagen del Problema #2.
+
+#### Solucion2: https://github.com/ronaldbailey/Laboratorio-1---Introducci-n-al-Procesamiento-de-Im-genes-/blob/main/Problema%202.ipynb
 
 **Problema 4:**
 
